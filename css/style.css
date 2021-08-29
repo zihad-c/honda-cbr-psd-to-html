@@ -1,0 +1,72 @@
+/* ----------
+common styles 
+----------- */
+
+body {
+    margin: 0 auto;
+    padding: 0;
+    outline: 0;
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}
+
+.accordion {
+    font-family: 'Inter', sans-serif;
+}
+
+footer {
+    font-family: 'Manrope', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+ol,
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+nav {
+    color: #fff;
+    /* background-color: rgba(38, 70, 83, 0.9); */
+    background-color: #264653;
+}
+
+.nav-item .nav-link {
+    text-decoration: none;
+    color: #fff;
+}
+
+.navbar-toggler-icon {
+    color: #ddd;
+}
+
+.hero-banner {
+    background-color: #264653;
+}
+
+.grayscale-image {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+  }
+
+.full {
+    color: #E76F51;
+}
+
+.special {
+    color: #E76F51;
+}
+
+footer {
+    background-color: #0B0D17;
+}
+
+.footer-logo {
+    width: 135px;
+    height: 40px;
+}
